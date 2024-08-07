@@ -1,0 +1,1 @@
+trying to learn and implement micrograd by karpathy sensei.
